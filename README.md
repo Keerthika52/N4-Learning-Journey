@@ -51,11 +51,11 @@ and regular practice tests.
 
 ### Phase 2: Minna no Nihongo II — Vocabulary
 
-- [ ] Lesson 26 Vocabulary
-- [ ] Lesson 27 Vocabulary
-- [ ] Lesson 28 Vocabulary
-- [ ] Lesson 29 Vocabulary
-- [ ] Lesson 30 Vocabulary
+- [x] Lesson 26 Vocabulary
+- [x] Lesson 27 Vocabulary
+- [x] Lesson 28 Vocabulary
+- [x] Lesson 29 Vocabulary
+- [x] Lesson 30 Vocabulary
 - [ ] Lesson 31 Vocabulary
 - [ ] Lesson 32 Vocabulary
 - [ ] Lesson 33 Vocabulary
