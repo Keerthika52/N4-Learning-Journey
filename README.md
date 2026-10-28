@@ -56,8 +56,8 @@ and regular practice tests.
 - [x] Lesson 28 Vocabulary
 - [x] Lesson 29 Vocabulary
 - [x] Lesson 30 Vocabulary
-- [ ] Lesson 31 Vocabulary
-- [ ] Lesson 32 Vocabulary
+- [x] Lesson 31 Vocabulary
+- [x] Lesson 32 Vocabulary
 - [ ] Lesson 33 Vocabulary
 - [ ] Lesson 34 Vocabulary
 - [ ] Lesson 35 Vocabulary
